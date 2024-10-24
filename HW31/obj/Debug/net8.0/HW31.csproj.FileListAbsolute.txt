@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\HW31\HW31\bin\Debug\net8.0\HW31.exe
+C:\Users\Mr. X\source\repos\HW31\HW31\bin\Debug\net8.0\HW31.deps.json
+C:\Users\Mr. X\source\repos\HW31\HW31\bin\Debug\net8.0\HW31.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW31\HW31\bin\Debug\net8.0\HW31.dll
+C:\Users\Mr. X\source\repos\HW31\HW31\bin\Debug\net8.0\HW31.pdb
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.dll
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\refint\HW31.dll
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.pdb
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\HW31.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW31\HW31\obj\Debug\net8.0\ref\HW31.dll
